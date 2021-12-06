@@ -1,0 +1,18 @@
+.inputWrapper {
+  width: 600px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inputWrapper button {
+  height: 40px;
+  width: 20%;
+  margin-left: 10px;
+}
+
+.inputWrapper input {
+  height: 40px;
+  width: 80%;
+  align-content: center;
+}

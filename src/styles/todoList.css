@@ -1,0 +1,18 @@
+.markAsDone {
+  background-color: green;
+}
+
+li {
+  display: flex;
+  align-items: center;
+}
+
+.checkBox {
+  margin-right: 15px;
+}
+
+li p {
+  flex-grow: 1;
+  font-size: 25px;
+  padding-right: 10px;
+}

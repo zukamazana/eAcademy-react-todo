@@ -1,0 +1,17 @@
+.DeleteButtons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.DeleteButtons button {
+  border-radius: 5px;
+  padding: 0 10px;
+  height: 40px;
+  border: none;
+  color: white;
+  background-color: blueviolet;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-size: 20px;
+}

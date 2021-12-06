@@ -1,0 +1,21 @@
+.newTodo button {
+  width: 30%;
+  color: white;
+  border-radius: 25px;
+  background: #be1717;
+  font-size: 25px;
+  border-color: white;
+}
+
+.newTodo {
+  display: flex;
+}
+
+.newTodo input {
+  height: 50px;
+  font-size: 20px;
+  width: 60%;
+  padding: 0 20px;
+  border-radius: 25px;
+  margin: 0 10% 0 0;
+}
